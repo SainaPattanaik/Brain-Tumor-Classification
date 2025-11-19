@@ -16,7 +16,7 @@ from torch.utils.tensorboard import SummaryWriter
 
 
 # ---------------- CONFIG ----------------
-DATA_DIR = Path("C:/Users/HP/OneDrive/Desktop/brain_tumor_project/data")
+DATA_DIR = Path("C:/Users/Harsha/Documents/GitHub/Brain-Tumor-Classification/data")
 EXPERIMENT_DIR = Path("../runs/exp1")
 BATCH_SIZE = 32
 NUM_WORKERS = 4
