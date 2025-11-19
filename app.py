@@ -276,7 +276,7 @@ model, classes, device, target_layer = load()
 
 # Header
 st.title("🧠 Brain Tumor MRI Classifier")
-st.caption("Upload a brain MRI slice (jpg/png). Model trained on Kaggle 4-class dataset.")
+st.caption("Upload a brain MRI slice (jpg/png)")
 
 # Preprocessing (must match training)
 val_tf = transforms.Compose([
