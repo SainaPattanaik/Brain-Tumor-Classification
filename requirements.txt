@@ -9,4 +9,4 @@ pillow
 opencv-python
 tensorboard
 streamlit
-pytorch-grad-cam
+grad-cam
